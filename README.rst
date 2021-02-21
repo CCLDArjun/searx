@@ -6,6 +6,10 @@
    :width: 100%
    :align: center
 
+*****
+Why this fork?
+*****
+Make SearX's frontend look **better**
 -------
 
 |searx install|
