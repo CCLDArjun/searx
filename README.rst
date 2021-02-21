@@ -10,6 +10,7 @@
 Why this fork?
 *****
 Make SearX's frontend look **better**
+
 -------
 
 |searx install|
