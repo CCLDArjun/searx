@@ -1,0 +1,11 @@
+PYENV     usage: source ./local/py3/bin/activate
+PYENV     using virtualenv from ./local/py3
+build utils/brand.env
+PYENV     install .
+PYENV     . already installed
+SEARX_DEBUG=1 ./local/py3/bin/python ./searx/webapp.py
+ * Serving Flask app "webapp" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
